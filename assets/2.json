@@ -1,0 +1,20 @@
+{
+    "name": "White Beans",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "DG63SCQzsZjsBGygiM9hUJUZvUezE38jGjypo91EiFEH",
+          "share": 100
+        }
+      ]
+    },
+    "collection": {"name": "beans", "family": "beans"}
+  }
